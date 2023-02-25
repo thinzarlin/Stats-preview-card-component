@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/thinzarlin/Stats-preview-card-component)
-- Live Site URL: [Live Site](https://thinzarlin.github.io/Stats-preview-card-component)
+- Solution URL: [Solution](https://github.com/thinzarlin/Stats-preview-card-component/)
+- Live Site URL: [Live Site](https://thinzarlin.github.io/Stats-preview-card-component/)
 
 ## My process
 
